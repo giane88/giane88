@@ -77,6 +77,7 @@ I am a father 👨‍👩‍👧‍👦, an engineer👷‍♂️, and a develop
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
 <h2>Stats</h2>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=giane88&show_icons=true&locale=en&layout=compact&theme=algolia&hide=tex" alt="giane88" /><img  src="https://github-readme-stats.vercel.app/api?username=giane88&show_icons=true&locale=en&theme=algolia" alt="giane88" /><img  src="https://github-readme-streak-stats.herokuapp.com/?user=giane88&&theme=algolia" alt="giane88" />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=giane88&show_icons=true&locale=en&layout=compact&theme=algolia&hide=tex" alt="giane88" /></p> <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=giane88&show_icons=true&locale=en&theme=algolia" alt="giane88" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=giane88&&theme=algolia" alt="giane88" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giane88&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="giane88" /> </p>
