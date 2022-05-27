@@ -1,5 +1,5 @@
 
-<h1>Hi there👋!</h1>
+<h1>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p id="contacts" align="center"> 
     <a href="https://www.linkedin.com/in/matteo-gianello/">
@@ -29,7 +29,7 @@ I am a father 👨‍👩‍👧‍👦, an engineer👷‍♂️, and a develop
 <h2>Tools & Technologies</h2>
 <h3>Backend:</h3>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" background-color="black"/>
  </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -77,8 +77,6 @@ I am a father 👨‍👩‍👧‍👦, an engineer👷‍♂️, and a develop
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
 <h2>Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giane88&show_icons=true&locale=en&layout=compact" alt="giane88" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=giane88&show_icons=true&locale=en" alt="giane88" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=giane88&" alt="giane88" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=giane88&show_icons=true&locale=en&layout=compact&theme=algolia&hide=tex" alt="giane88" /><img  src="https://github-readme-stats.vercel.app/api?username=giane88&show_icons=true&locale=en&theme=algolia" alt="giane88" /><img  src="https://github-readme-streak-stats.herokuapp.com/?user=giane88&&theme=algolia" alt="giane88" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=giane88&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="giane88" /> </p>
